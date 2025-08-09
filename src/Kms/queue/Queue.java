@@ -1,3 +1,5 @@
+package Kms.queue;
+
 public class Queue<T> {
     private Node<T> front, rear;
     private int size;
